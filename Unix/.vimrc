@@ -21,10 +21,14 @@ set splitbelow
 nmap ; :
 nmap <Tab> <C-w>
 
+"nmap M :!make; open my-sigconf.pdf<CR>
+
 set tabstop=4
 set shiftwidth=4
 set smarttab
 set smartindent
 set expandtab
+
+set laststatus=2
 
 syntax on
