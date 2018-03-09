@@ -1,0 +1,1 @@
+("~/info-theory-itmo-2017/" "~/Gamer/" "~/Zeal/" "~/study-notes/" "~/haskell/" "~/Game-theory/" "~/haskell_tickets/" "~/.emacs.d/")
